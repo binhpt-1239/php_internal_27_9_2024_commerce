@@ -1,3 +1,18 @@
 {
-    "helloWorld": "Hello World"
+    "header": {
+        "story": "Story",
+        "newsBoard": "News Board",
+        "menu": "MENU",
+        "tradingCounter": "Trading Counter",
+        "store": "Store",
+        "contact": "Contact",
+        "loyaltyPolicy": "Loyalty Policy",
+        "news": "News",
+        "cooperation": "Cooperation",
+        "hereAndThere": "Here and There",
+        "bartender": "Bartender",
+        "recruitment": "Recruitment",
+        "communityListen": "Community Listening",
+        "aboutUs": "About Us"
+    }
 }

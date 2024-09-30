@@ -5,4 +5,5 @@ import HeaderSection from './components/header/HeaderSection.vue'
 
 <template>
     <HeaderSection />
+    <RouterView />
 </template>
