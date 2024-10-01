@@ -1,3 +1,18 @@
 {
-    "helloWorld": "Xin chào thế giới"
+    "header": {
+        "story": "Câu Chuyện",
+        "newsBoard": "Bảng Tin",
+        "menu": "THỰC ĐƠN",
+        "tradingCounter": "QUẦY MẬU DỊCH",
+        "store": "Cửa Hàng",
+        "contact": "Liên hệ",
+        "loyaltyPolicy": "Chính sách KHTV",
+        "news": "Tin Tức",
+        "cooperation": "Hợp Tác",
+        "hereAndThere": "Đó Đây",
+        "bartender": "Pha Chế",
+        "recruitment": "Tuyển dụng",
+        "communityListen": "Cộng Lắng Nghe",
+        "aboutUs": "Về Chúng Tôi"
+    }
 }
