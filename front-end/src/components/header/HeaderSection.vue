@@ -20,9 +20,9 @@ export default defineComponent({
    <div class="hidden lg:block w-full mr-12">
       <ul class="flex flex-row-reverse gap-12">
          <li class="relative">
-            <router-link 
-               class="header-menu-item hover:text-green-900" 
-               to="/products" 
+            <router-link
+               class="header-menu-item hover:text-green-900"
+               to="/products"
                rel="noreferrer">
                 {{ t("header.menu") }}
             </router-link>
